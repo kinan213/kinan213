@@ -34,8 +34,8 @@ Designed and configured the core, DMZ, and access layers of a multi-zone enterpr
 **💻 Cloud Store — OOSE Analysis & Design**  
 A scalable global e-commerce platform unifying online shopping with integrated delivery logistics. Produced a full requirements specification, UML use case and object models, sequence and state machine diagrams, and BPMN process models for order fulfillment and inventory management.
 
-**📊 Stock Data Analysis Dashboard (Excel)**  
-Built an interactive dashboard analyzing OHLCV data for Amazon, Apple, Google, and Samsung, using formula-driven pivot tables with company and year filters and a styled, themed layout.
+**📊 [Employee Promotion Dashboard (Excel)](https://github.com/Kinan213/employee-promotion-dashboard)**  
+Built at Tuwaiq Academy: an interactive dashboard analyzing promotion patterns across 54,808 employees. Cleaned and transformed the raw dataset, summarized it with pivot tables, and designed a dashboard with slicers to filter by department, education, and length of service.
 
 ## Focus Areas
 - Networking (CCNA-level foundations)
