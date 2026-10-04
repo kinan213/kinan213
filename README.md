@@ -23,4 +23,26 @@
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ## Projects
-**🌐 [Secured Enterprise
+**🌐 [Secured Enterprise Campus Network](https://github.com/Kinan213/enterprise-campus-network)**  
+Built in Cisco Packet Tracer from my CCNA final project: a redundant Layer 3 core with HSRP and EtherChannel, multi-area OSPF across HQ and branch, an ASA firewall with a least-privilege DMZ, and centralized DHCP, DNS, and mail services.
+- 🧩 Redundant 3650 core with LACP EtherChannel and HSRP load balancing
+- 🛡️ ASA firewall zones with least-privilege rules; the DMZ cannot reach the inside network
+- 🗺️ Multi-area OSPF (Areas 0, 1, 2) with router-on-a-stick at the branch
+- 🔗 Centralized DHCP with relay, plus DNS and mail services
+
+**💻 [Cloud Store — OOSE Analysis & Design](https://github.com/Kinan213/cloud-store-oose)**  
+A scalable global e-commerce platform unifying online shopping with integrated delivery logistics. Produced a full requirements specification, UML use case, class, and object models, sequence and state machine diagrams, and BPMN process models for order fulfillment and inventory management.
+
+**📊 [Employee Promotion Dashboard (Excel)](https://github.com/Kinan213/employee-promotion-dashboard)**  
+Built at Tuwaiq Academy: an interactive dashboard analyzing promotion patterns across 54,808 employees. Cleaned and transformed the raw dataset, summarized it with pivot tables, and designed a dashboard with slicers to filter by department, education, and length of service.
+
+## Focus Areas
+- Networking (CCNA-level foundations)
+- Databases & data modeling
+- Software engineering
+- 🔐 Cybersecurity — my next focus (GRC & security fundamentals)
+
+## Currently Learning
+- 🔐 Cybersecurity track at Tuwaiq Academy — building toward a GRC and security foundation
+- 🗄️ Database systems & data modeling (current coursework)
+- 🛡️ Security certifications roadmap — Security+ next after CCNA foundations
