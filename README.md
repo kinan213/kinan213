@@ -1,4 +1,4 @@
-# Hi, I'm Kinan Alghamdi
+# Hi, I'm Kinan 👋
 
 🎓 Computer Engineering student at Al-Baha University  
 🌐 Strong foundation in **networking** · currently deep in **databases**  
@@ -31,8 +31,8 @@ Designed and configured the core, DMZ, and access layers of a multi-zone enterpr
 - 🔁 FHRP (HSRP/VRRP) for gateway high availability
 - 🔗 DHCP relay and VLAN/IP segmentation by zone and function
 
-**💻 Cloud Store — OOSE Analysis & Design**  
-A scalable global e-commerce platform unifying online shopping with integrated delivery logistics. Produced a full requirements specification, UML use case and object models, sequence and state machine diagrams, and BPMN process models for order fulfillment and inventory management.
+**💻 [Cloud Store — OOSE Analysis & Design](https://github.com/Kinan213/cloud-store-oose)**  
+A scalable global e-commerce platform unifying online shopping with integrated delivery logistics. Produced a full requirements specification, UML use case, class, and object models, sequence and state machine diagrams, and BPMN process models for order fulfillment and inventory management.
 
 **📊 [Employee Promotion Dashboard (Excel)](https://github.com/Kinan213/employee-promotion-dashboard)**  
 Built at Tuwaiq Academy: an interactive dashboard analyzing promotion patterns across 54,808 employees. Cleaned and transformed the raw dataset, summarized it with pivot tables, and designed a dashboard with slicers to filter by department, education, and length of service.
@@ -41,9 +41,4 @@ Built at Tuwaiq Academy: an interactive dashboard analyzing promotion patterns a
 - Networking (CCNA-level foundations)
 - Databases & data modeling
 - Software engineering
-- 🔐 Cybersecurity — my next focus (GRC & security fundamentals)
-
-## Currently Learning
-- 🔐 Cybersecurity track at Tuwaiq Academy — building toward a GRC and security foundation
-- 🗄️ Database systems & data modeling (current coursework)
-- 🛡️ Security certifications roadmap — Security+ next after CCNA foundations
+- 🔐 Cybersecurity — my
