@@ -1,4 +1,4 @@
-# Hi, I'm Kinan 👋
+# Hi, I'm Kinan Alghamdi
 
 🎓 Computer Engineering student at Al-Baha University  
 🌐 Strong foundation in **networking** · currently deep in **databases**  
