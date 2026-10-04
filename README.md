@@ -23,27 +23,4 @@
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ## Projects
-**🌐 Secured Enterprise Campus Network — CCNA Final Project**  
-Designed and configured the core, DMZ, and access layers of a multi-zone enterprise campus network.
-- 🧩 Cisco Nexus 9000 core spine fabric with a Layer 3 distribution pair
-- 🛡️ NGFW-protected DMZ hosting AD/Exchange, secured DNS, and centralized DHCP
-- 🏢 Two office user zones across separate OSPF areas with inter-VLAN routing
-- 🔁 FHRP (HSRP/VRRP) for gateway high availability
-- 🔗 DHCP relay and VLAN/IP segmentation by zone and function
-
-**💻 [Cloud Store — OOSE Analysis & Design](https://github.com/Kinan213/cloud-store-oose)**  
-A scalable global e-commerce platform unifying online shopping with integrated delivery logistics. Produced a full requirements specification, UML use case, class, and object models, sequence and state machine diagrams, and BPMN process models for order fulfillment and inventory management.
-
-**📊 [Employee Promotion Dashboard (Excel)](https://github.com/Kinan213/employee-promotion-dashboard)**  
-Built at Tuwaiq Academy: an interactive dashboard analyzing promotion patterns across 54,808 employees. Cleaned and transformed the raw dataset, summarized it with pivot tables, and designed a dashboard with slicers to filter by department, education, and length of service.
-
-## Focus Areas
-- Networking (CCNA-level foundations)
-- Databases & data modeling
-- Software engineering
-- 🔐 Cybersecurity — my next focus (GRC & security fundamentals)
-
-## Currently Learning
-- 🔐 Cybersecurity track at Tuwaiq Academy — building toward a GRC and security foundation
-- 🗄️ Database systems & data modeling (current coursework)
-- 🛡️ Security certifications roadmap — Security+ next after CCNA foundations
+**🌐 [Secured Enterprise
