@@ -41,4 +41,9 @@ Built at Tuwaiq Academy: an interactive dashboard analyzing promotion patterns a
 - Networking (CCNA-level foundations)
 - Databases & data modeling
 - Software engineering
-- 🔐 Cybersecurity — my
+- 🔐 Cybersecurity — my next focus (GRC & security fundamentals)
+
+## Currently Learning
+- 🔐 Cybersecurity track at Tuwaiq Academy — building toward a GRC and security foundation
+- 🗄️ Database systems & data modeling (current coursework)
+- 🛡️ Security certifications roadmap — Security+ next after CCNA foundations
