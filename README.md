@@ -47,12 +47,12 @@ A scalable global e-commerce platform unifying online shopping with integrated d
 Built at Tuwaiq Academy: an interactive dashboard analyzing promotion patterns across 54,808 employees. Cleaned and transformed the raw dataset, summarized it with pivot tables, and designed a dashboard with slicers to filter by department, education, and length of service.
 
 ## Focus Areas
-- 🔐 Cybersecurity — Governance, Risk & Compliance (GRC) and security fundamentals
+-  Cybersecurity — Governance, Risk & Compliance (GRC) and security fundamentals
 - Networking (CCNA-level foundations)
 - Databases & data modeling
 - Software engineering
 
 ## Currently Learning
-- 🔐 Cybersecurity track at Tuwaiq Academy — building toward a GRC and security foundation
-- 🗄️ Database systems & data modeling (current coursework)
-- 🛡️ Security certifications roadmap — Security+ next after CCNA foundations
+-  Cybersecurity track at Tuwaiq Academy — building toward a GRC and security foundation
+-  Database systems & data modeling (current coursework)
+-  Security certifications roadmap — Security+ next after CCNA foundations
