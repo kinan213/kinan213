@@ -2,9 +2,9 @@
 
 🎓 Computer Engineering student at Al-Baha University  
 🌐 Strong foundation in **networking** · currently deep in **databases**  
-💻 Hands-on project experience in **networking** and **software engineering**  
+💻 Hands-on project experience in **networking**, **software engineering**, and **cybersecurity**  
 📊 Data analysis & dashboards in **Excel**  
-🔐 Heading toward a career in **cybersecurity**  
+🔐 Heading toward a career in **cybersecurity (GRC)**  
 🗣️ Working fluidly in both Arabic and English  
 
 ## Connect with me
@@ -18,11 +18,21 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ## Projects
+
+**🔐 [Security Assessment — Metasploitable 2 Lab (GRC)](https://github.com/Kinan213/grc-security-assessment-lab)**  
+An end-to-end GRC security assessment: built an isolated Kali + Metasploitable 2 lab, ran reconnaissance and vulnerability scans, and turned the findings into business-level risk. Produced a risk register of 21 findings (11 Critical) scored by likelihood × impact and mapped to ISO/IEC 27001 and NIST, plus a full written audit report.
+- 🧱 Isolated host-only lab with verified network segmentation
+- 🔎 Host discovery, full-port service detection, and Nmap NSE vulnerability scanning (CVE-referenced)
+- 📋 Risk register with likelihood × impact scoring mapped to ISO 27001 & NIST controls
+- 📄 Executive-ready audit report with prioritised remediation guidance
+
 **🌐 [Secured Enterprise Campus Network](https://github.com/Kinan213/enterprise-campus-network)**  
 Built in Cisco Packet Tracer from my CCNA final project: a redundant Layer 3 core with HSRP and EtherChannel, multi-area OSPF across HQ and branch, an ASA firewall with a least-privilege DMZ, and centralized DHCP, DNS, and mail services.
 - 🧩 Redundant 3650 core with LACP EtherChannel and HSRP load balancing
@@ -37,10 +47,10 @@ A scalable global e-commerce platform unifying online shopping with integrated d
 Built at Tuwaiq Academy: an interactive dashboard analyzing promotion patterns across 54,808 employees. Cleaned and transformed the raw dataset, summarized it with pivot tables, and designed a dashboard with slicers to filter by department, education, and length of service.
 
 ## Focus Areas
+- 🔐 Cybersecurity — Governance, Risk & Compliance (GRC) and security fundamentals
 - Networking (CCNA-level foundations)
 - Databases & data modeling
 - Software engineering
-- 🔐 Cybersecurity — my next focus (GRC & security fundamentals)
 
 ## Currently Learning
 - 🔐 Cybersecurity track at Tuwaiq Academy — building toward a GRC and security foundation
